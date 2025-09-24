@@ -69,7 +69,7 @@ This project uses the **CO₂ Emissions dataset** (vehicle-level records of ligh
 
 **2. Residual Plot (Linear Regression)**  
 - Non-linear residual patterns suggest linear regression is less suitable than tree-based models.
-![Residual Plot](datavisual/2.png)  
+![Residual Plot](datavisual/2_.png)  
 
 
 
