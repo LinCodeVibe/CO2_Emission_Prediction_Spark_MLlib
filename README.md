@@ -56,3 +56,17 @@ This project uses the **CO₂ Emissions dataset** (vehicle-level records of ligh
   - Bigger engines emit more CO₂, but **city fuel consumption** is a **far stronger predictor**  
   - This challenges the simple assumption *“Larger engines always produce more CO₂”*  
 
+---
+
+## 📈 Visualizations  
+
+**1. Feature Importance (Decision Tree)**  
+![Feature Importance](datavisual/feature_importance.png)  
+- Fuel consumption dominates as the most important factor.  
+
+**2. Residual Plot (Linear Regression)**  
+![Residual Plot](datavisual/residual_plot.png)  
+
+
+
+- Non-linear residual patterns suggest linear regression is less suitable than tree-based models.
