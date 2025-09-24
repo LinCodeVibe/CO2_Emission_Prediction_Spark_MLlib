@@ -62,14 +62,14 @@ This project uses the **CO₂ Emissions dataset** (vehicle-level records of ligh
 
 **1. Feature Importance (Decision Tree)**  
 - Fuel consumption dominates as the most important factor. 
-![Feature Importance](datavisual/feature_importance.png)  
+![Feature Importance](datavisual/1.png)  
  
 
 
 
 **2. Residual Plot (Linear Regression)**  
 - Non-linear residual patterns suggest linear regression is less suitable than tree-based models.
-![Residual Plot](datavisual/residual_plot.png)  
+![Residual Plot](datavisual/2.png)  
 
 
 
